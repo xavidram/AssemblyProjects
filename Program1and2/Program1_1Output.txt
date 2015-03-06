@@ -1,0 +1,24 @@
+Enter 10 numbers into the array:
+4
+-30
+0
+7
+42
+-20
+18
+400
+-123
+-6
+Here are the inputed values:
++4
+-30
++0
++7
++42
+-20
++18
++400
+-123
+-6
+Here is their average:
++28

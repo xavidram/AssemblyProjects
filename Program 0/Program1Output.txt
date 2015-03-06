@@ -1,0 +1,12 @@
+Please Enter some Integers:
+42
+-5
+-23
+35
+A1: +42
+B1: -5
+C1: -23
+D1: +35
+
+This is the total:
+-11
